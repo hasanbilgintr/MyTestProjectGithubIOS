@@ -19,6 +19,12 @@ class ViewController: UIViewController {
             print(num)
         }
         //1.commit atıyoruz
+        
+        
+        
+        print("test test....")
+        
+        //2.commit
     }
 
 
